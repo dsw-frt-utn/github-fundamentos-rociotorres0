@@ -1,3 +1,9 @@
+## Rocio Noemi Torres
+## 60795
+## 3k3
+## RocioNoemiTorres@alu.frt.utn.edu.ar
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
