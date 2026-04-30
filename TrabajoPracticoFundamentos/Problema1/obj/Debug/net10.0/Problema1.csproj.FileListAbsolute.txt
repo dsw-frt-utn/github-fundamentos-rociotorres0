@@ -1,0 +1,15 @@
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\bin\Debug\net10.0\Problema1.exe
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\bin\Debug\net10.0\Problema1.deps.json
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\bin\Debug\net10.0\Problema1.runtimeconfig.json
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\bin\Debug\net10.0\Problema1.dll
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\bin\Debug\net10.0\Problema1.pdb
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\obj\Debug\net10.0\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\obj\Debug\net10.0\Problema1.AssemblyInfoInputs.cache
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\obj\Debug\net10.0\Problema1.AssemblyInfo.cs
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\obj\Debug\net10.0\Problema1.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\obj\Debug\net10.0\Problema1.sourcelink.json
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\obj\Debug\net10.0\Problema1.dll
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\obj\Debug\net10.0\refint\Problema1.dll
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\obj\Debug\net10.0\Problema1.pdb
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\obj\Debug\net10.0\Problema1.genruntimeconfig.cache
+C:\Users\Rocio\github-fundamentos-rociotorres0\TrabajoPracticoFundamentos\Problema1\obj\Debug\net10.0\ref\Problema1.dll
