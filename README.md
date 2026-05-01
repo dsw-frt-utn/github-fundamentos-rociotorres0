@@ -1,7 +1,7 @@
-## Rocio Noemi Torres
-## 60795
-## 3k3
-## RocioNoemiTorres@alu.frt.utn.edu.ar
+## Nombre y Apellido: Rocio Noemi Torres
+## Legajo: 60795
+## Comision: 3k3
+## Correo: RocioNoemiTorres@alu.frt.utn.edu.ar
 
 
 # :wave: The Basics of GitHub 
